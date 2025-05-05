@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app 
+    xmlns="http://java.sun.com/xml/ns/javaee" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_3_0.xsd"
+    version="3.0">
+
+    <env-entry>
+            <description>Control the number of consumer create</description>
+            <env-entry-name>numOfConsumer</env-entry-name>
+            <env-entry-type>java.lang.Integer</env-entry-type>
+            <env-entry-value>10</env-entry-value>
+        </env-entry>
+        
+</web-app>
