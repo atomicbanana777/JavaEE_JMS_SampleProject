@@ -128,7 +128,7 @@ http://localhost:8080/demo
   - I didn't create glassfish-ejb-jar.xml
  
 - Next?
-  - It is a simple send queue and consum queue JavaEE JMS project
-  - I cannot use Message Driven Bean for ActiveMQ, I think I will try different message broker to see it will work
-  - I think I can try topic next time
+  - It was a simple sending queue and consuming queue JavaEE JMS project
+  - I couldn't use Message Driven Bean for ActiveMQ, I though I would try different message broker to see it will work
+  - I though I could try topic next time
   - and also transaction to build a more robust messaging application
